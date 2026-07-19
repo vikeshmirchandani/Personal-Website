@@ -72,9 +72,13 @@ h2 {
   margin-bottom: 1.4rem;
 }
 
-p { 
-  max-width: none; 
+/* Specific alignments for the bio vs the contact line */
+.bio { 
   text-align: justify; 
+}
+
+.contact { 
+  text-align: left; 
 }
 
 .divider {
