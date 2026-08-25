@@ -118,10 +118,10 @@ h2 {
 }
 
 .story-note {
-  margin-top: .25rem;
-  color: var(--muted);
-  font-size: .9em;
-  line-height: 1.5;
+  margin-top: .2rem;
+  color: #a47a5d;
+  font-size: .98em;
+  line-height: 1.82;
 }
 
 a {
