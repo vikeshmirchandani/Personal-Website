@@ -113,13 +113,13 @@ h2 {
 
 .publication-meta { 
   margin-top: .2rem; 
-  color: var(--muted); 
+  color: var(--link); 
   font-size: .98em; 
 }
 
 .story-note {
   margin-top: .2rem;
-  color: #8b684b;
+  color: var(--muted);
   font-size: .98em;
   line-height: 1.82;
 }
